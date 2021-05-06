@@ -82,3 +82,7 @@ fastlane/test_output
 iOSInjectionProject/
 
 .DS_Store
+
+fruit-classifier/training-dataset/
+
+fruit-classifier/test-dataset/
